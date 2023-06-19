@@ -1,0 +1,32 @@
+
+.todologin{
+    margin: 7% 5%;
+    display: flex;
+}
+.ingresar, .registrar{
+    width: 50%;
+}
+.tingresar{
+    font-size: 2em;
+}
+.texto{
+    font-size: 1.2em;
+}
+
+.cuadro{
+    width: 80%;
+    height: 60px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #d1c8c1;
+    color:black;
+    margin-top: 1%;
+}
+.btnin{
+    background-color: #a6dd2b;
+    border: 1px solid #a6dd2b ;
+    border-radius: 10px;
+    font-size: 1em;
+    padding: 5px;
+    margin-top: 3%;
+    margin-left: 35%;
+}
